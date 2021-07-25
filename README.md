@@ -13,6 +13,15 @@
 <img src ="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/angularjs/angularjs-original.svg" alt="rails" width="40" height="40" style="max-width:100%;"></img>
 <br>
 [![Dourado's GitHub stats](https://github-readme-stats.vercel.app/api?username=Dourado8083)](https://github.com/Dourado8083/github-readme-stats)
+<br>
+## Some Projects
+<h3>My first project</h3>
+<img src="https://i.imgur.com/IARKzHE.png"  style="max-width100%;" height="300px"></img>
+<h3>Site about covid</h3>
+<img src="https://i.imgur.com/mgvNeIz.png"  style="max-width100%;" height="284px"></img>
+<h3>Game depollution quest</h3>
+<img src="https://i.imgur.com/ItVW5hs.png"  style="max-width100%;" height="284px"></img>
+
 
 <!--
 **Dourado8083/Dourado8083** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
