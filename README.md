@@ -12,6 +12,7 @@
 <img src ="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" alt="rails" width="40" height="40" style="max-width:100%;"></img>
 <img src ="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/angularjs/angularjs-original.svg" alt="rails" width="40" height="40" style="max-width:100%;"></img>
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-original.svg" alt="rails" width="40" height="40" style="max-width:100%;"></img>
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg"  width="40" height="40"></img>
 <br>
 [![Dourado's GitHub stats](https://github-readme-stats.vercel.app/api?username=Dourado8083)](https://github.com/Dourado8083/github-readme-stats)
 <br>
